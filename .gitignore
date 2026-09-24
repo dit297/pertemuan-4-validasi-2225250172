@@ -1,0 +1,20 @@
+# Python bytecode & cache (di-generate otomatis oleh Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (jika membuat venv lokal)
+venv/
+env/
+.venv/
+
+# Folder konfigurasi editor VS Code (biar settingan lokal tidak ikut terunggah)
+.vscode/
+
+# Berkas sistem operasi
+.DS_Store
+Thumbs.db
+
+# Berkas log atau temporary
+*.log
+*.tmp
